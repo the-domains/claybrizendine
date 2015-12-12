@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Clay Brizendine]]></title>
         <description><![CDATA[Clay Brizendine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/claybrizendine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 04:32:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 04:32:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/claybrizendine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://claybrizendine.me/wp-content/uploads/2013/11/CBME_Clay-Brizendine-speaking-300x300.jpg">]]></description>
+            <link>https://thegrid.ai/claybrizendine/clay-is-available-for-keynote-speaking-and-training-engageme/index.html</link>
+            <guid isPermaLink="false">a9138ed1-71be-4645-b88f-22b68d9a9e73</guid>
+            <pubDate>Sat, 12 Dec 2015 04:32:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://claybrizendine.me/wp-content/uploads/2011/09/CBME_Simplify-to-Amplify-300x126.jpg">]]></description>
-            <link>undefinedunderstand-your-true-priorities-passionately-engage-with-th/index.html</link>
+            <link>https://thegrid.ai/claybrizendine/understand-your-true-priorities-passionately-engage-with-th/index.html</link>
             <guid isPermaLink="false">6bf19084-bd31-4bd9-88ed-9938987d5f2f</guid>
             <pubDate>Sat, 12 Dec 2015 04:32:56 GMT</pubDate>
         </item>
